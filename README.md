@@ -1,6 +1,8 @@
 Brain Stroke Prediction and Analysis Using Machine Learning
 
+
 1 Introduction :
+
 Brain stroke is among major causes of death and long-term disability worldwide. It is of great importance to predict the risk of having Brain stroke for better prevention and early treatment.
 This brief report presents my attempt to develop a machine learning (ML) model to accurately and quickly predict whether or not a person suffered stroke based on the Kaggle stroke dataset.
 The dataset contains 43400 rows (samples) and 12 columns (variables), ten of which are used as the input variables and described in Table 1. The remaining two variables are 'id' 
